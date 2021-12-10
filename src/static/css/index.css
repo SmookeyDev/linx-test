@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-rootblue {
+  background-color: #141421;
+}
+
+.bg-blackhowl {
+  background-color: #1c1c2d;
+}

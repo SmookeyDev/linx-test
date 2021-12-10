@@ -1,0 +1,4 @@
+python-decouple
+requests
+datetime
+flask
